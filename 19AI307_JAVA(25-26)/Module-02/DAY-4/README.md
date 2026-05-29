@@ -29,6 +29,14 @@ To write a Java program that initializes object variables using a constructor an
 6. End the program.
 
 
+## PROGRAM:
+ ```
+/*
+Program to implement a Variable Scope and Constructor using Java
+Developed by: KRIPAL R
+RegisterNumber: 212224040165
+*/
+```
 ## SOURCE CODE:
 
 ```
