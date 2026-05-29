@@ -28,8 +28,8 @@ To write a Java program that reverses a given string entered by the user.
  ```
 /*
 Program to implement a Strings and Math Function using Java
-Developed by: LAAVANYA R
-RegisterNumber: 212224230135
+Developed by: KRIPAL R
+RegisterNumber: 212224040165
 */
 ```
 
