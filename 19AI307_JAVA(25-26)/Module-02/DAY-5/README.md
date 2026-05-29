@@ -26,6 +26,15 @@ To create an Employee class where the display() method returns the current objec
 
 
 
+
+## PROGRAM:
+ ```
+/*
+Program to implement a Access modifiers using Java
+Developed by: KRIPAL R
+RegisterNumber: 212224040165
+*/
+```
 ## SOURCE CODE:
 ```
 import java.util.Scanner;
