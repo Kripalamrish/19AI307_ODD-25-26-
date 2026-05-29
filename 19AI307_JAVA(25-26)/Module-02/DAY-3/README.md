@@ -31,6 +31,15 @@ To write a Java program that defines a class BankAccount with private attributes
 9. Close the Scanner and end the program.
 
 
+## PROGRAM:
+ ```
+/*
+Program to implement a Access specifiers using Java
+Developed by: KRIPAL R
+RegisterNumber: 212224040165
+*/
+```
+
 
 ## SOURCE CODE:
 ```
