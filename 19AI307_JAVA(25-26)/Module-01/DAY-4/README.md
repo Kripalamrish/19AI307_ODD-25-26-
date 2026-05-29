@@ -29,8 +29,8 @@ To write a Java program that calculates the average of elements in an array.
  ```
 /*
 Program to implement a Array concept using Java
-Developed by: LAAVANYA R
-RegisterNumber: 212224230135
+Developed by: KRIPAL R
+RegisterNumber: 212224040165
 
 */
 ```
