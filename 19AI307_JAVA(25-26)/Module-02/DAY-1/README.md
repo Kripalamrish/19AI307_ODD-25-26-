@@ -30,8 +30,8 @@ To create a Java class Car with attributes brand, model, and year, and display t
  ```
 /*
 Program to implement a Class and Objects using Java
-Developed by: LAAVANYA R
-RegisterNumber: 212224230135
+Developed by: KRIPAL R
+RegisterNumber: 212224040165
 */
 ```
 
